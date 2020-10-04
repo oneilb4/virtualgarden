@@ -1,0 +1,236 @@
+body{
+	padding:0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#Link1{
+	position: absolute;
+	font-size: 35px;
+	color: white;
+	text-decoration: none;
+	right: 80px;
+	bottom: 5%;
+}
+
+.ants{
+	position: absolute;
+	right:	100px;
+	bottom: 2%;
+
+}
+
+.cloud1{
+	position: absolute;
+	left: 75px;
+	top: 10%;
+
+}
+
+.cloud2{
+	position: absolute;
+	left: 50px;
+	top: 35%;
+}
+
+.butterflies{
+	position: absolute;
+	right: 300px;
+	top:60%;
+}
+
+.enjoy{
+	position: absolute;
+	left: 300px;
+	top: 40%;
+}
+
+.sunflower1{
+	position: absolute;
+	left: 200px;
+	bottom: 2%;
+}
+
+.sunflower2{
+	position: absolute;
+	left: 700px;
+	bottom: 2%;
+}
+
+.sparkles{
+	position: absolute;
+	left: 500px;
+	top: 50%
+}
+
+.sparkles2{
+	position: absolute;
+	right: 700px;
+	top: 10%;
+}
+
+.sparkles3{
+	position: absolute;
+	right: 100px;
+	bottom: 20%;
+}
+
+.jukebox{
+	position: absolute;
+	left: 600px;
+	top: 20%;
+}
+
+.bluedino{
+	position: absolute;
+	left: 400px;
+	bottom: 1%;
+}
+
+.greendino{
+	position: absolute;
+	left: 600px;
+	bottom: 1%;
+}
+
+.purpledino{
+	position: absolute;
+	left: 800px;
+	bottom: 1%;
+}
+
+.moonplant1{
+	position: absolute;
+	left: 300px;
+	bottom: 30%;
+}
+
+.moonplant2{
+	position: absolute;
+	right: 300px;
+	bottom: 30%;
+}
+
+#Link2{
+	position: absolute;
+	left: 125px;
+	top: 30%;
+}
+
+#Link3{
+	position: absolute;
+	right: 125px;
+	top: 30%;
+}
+
+#title1{
+	position: absolute;
+	left: 550px;
+	top: 5%;
+	color: hotpink;
+}
+
+.bluestar{
+	position: absolute;
+	right: 100px;
+	top: 10%;
+
+}
+
+.greenstar{
+	position: absolute;
+	left: 400px;
+	top: 10%;
+}
+
+.planets1{
+	position: absolute;
+	left: -150px;
+	top: 20%;
+}
+
+.planets2{
+	position: absolute;
+	right: 100px;
+	top: 50%;
+}
+
+.spaceflower1{
+	position: absolute;
+	right: 350px;
+	top: 50%
+}
+
+.spaceflower2{
+	position: absolute;
+	left: 650px;
+	top: 10%;
+}
+
+.spacepond{
+	position: absolute;
+	left: 500px;
+	bottom: 0%;
+}
+
+.yellowstar{
+	position: absolute;
+	left: 200px;
+	bottom: 10%;
+}
+
+.purplestar{
+	position: absolute;
+	right: 200px;
+	bottom: 10%;
+}
+
+#Link4{
+	position: absolute;
+	left: 80px;
+	top: 20%;
+}
+
+#Link5{
+	position: absolute;
+	right: 100px;
+	top: 45%;
+}
+
+#title2{
+	position: absolute;
+	left: 600px;
+	top: 60%;
+	color: cyan;
+}
+
+
+
+
+
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes positionChange {
+    0%   {left:30%;}
+    25%  {left:60%;}
+    50%  {left:10%;}
+    100% {left:30%;}
+}
+
+/* Standard syntax */
+@keyframes positionChange {
+    0%   {left:30%;}
+    25%  {left:60%; top:20px;}
+    50%  {left:10%;}
+    100% {left:30%;}
+}
+
+a{
+	text-decoration: none;
+	color:white;
+}
+
+a:visited{
+	color:white;
+}
